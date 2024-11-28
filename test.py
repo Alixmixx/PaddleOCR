@@ -9,7 +9,7 @@ def image_to_base64(image_path):
 
 # Replace with your API endpoint
 API_URL = "http://127.0.0.1:8000/ocr"  # Change if your API runs on a different server
-API_KEY = "your_api_key_here"  # Use the same key as in your FastAPI code
+API_KEY = "mirinae"  # Use the same key as in your FastAPI code
 
 # Image path
 image_path = "images/IMG_4162.jpg"  # Replace with the path to the image you want to test
